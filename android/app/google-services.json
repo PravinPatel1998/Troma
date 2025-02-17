@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "214284702297",
+    "firebase_url": "https://demoandroid-f368a-default-rtdb.firebaseio.com",
+    "project_id": "demoandroid-f368a",
+    "storage_bucket": "demoandroid-f368a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214284702297:android:8ffd3287ce5014f4685748",
+        "android_client_info": {
+          "package_name": "com.developerspace.webrtcsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaenDYi2QdTW-xz_Ugj-xR9NVgglMJxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214284702297-7o68f284k66hvapu41bo4leo7sd5okan.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linphoneApp.phone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214284702297:android:8a2fccdfb0639ffd685748",
+        "android_client_info": {
+          "package_name": "com.dwarsh.voipcalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaenDYi2QdTW-xz_Ugj-xR9NVgglMJxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214284702297-7o68f284k66hvapu41bo4leo7sd5okan.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linphoneApp.phone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214284702297:android:20068df53ac7de8b685748",
+        "android_client_info": {
+          "package_name": "com.dwarsh.webrtcsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaenDYi2QdTW-xz_Ugj-xR9NVgglMJxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214284702297-7o68f284k66hvapu41bo4leo7sd5okan.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linphoneApp.phone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214284702297:android:3bb1fc9a3408d470685748",
+        "android_client_info": {
+          "package_name": "com.example.troma_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214284702297-td1lhsj22imcgmdnvjmn1bgapeok16h3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.troma_demo",
+            "certificate_hash": "e743f0dcedf17773adbbff3520d81da7d06e7e61"
+          }
+        },
+        {
+          "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaenDYi2QdTW-xz_Ugj-xR9NVgglMJxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214284702297-7o68f284k66hvapu41bo4leo7sd5okan.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linphoneApp.phone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214284702297:android:d6380e488dcd46f9685748",
+        "android_client_info": {
+          "package_name": "com.reown.sample.modal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaenDYi2QdTW-xz_Ugj-xR9NVgglMJxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214284702297-7o68f284k66hvapu41bo4leo7sd5okan.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linphoneApp.phone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214284702297:android:3762c632d4d52b7e685748",
+        "android_client_info": {
+          "package_name": "com.reown.sample.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaenDYi2QdTW-xz_Ugj-xR9NVgglMJxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214284702297-q65mv61ahl08uph7ck2nuleud54ak0pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214284702297-7o68f284k66hvapu41bo4leo7sd5okan.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linphoneApp.phone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
